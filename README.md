@@ -31,12 +31,12 @@ Welcome to the Networking Programming Assignments repository for the "Network Pr
 
 | Assignment                       | Status          |
 | ---------------------------------|-----------------|
-| **(#1)**                         | Done ✅        |
-| **(#2)**                         | In process 🚧  |
-| **(#3)**                         | Waiting 🔜     |
-| **(#4)**                         | Waiting 🔜     |
-| **(#5)**                         | Waiting 🔜     |
-| **(#6)**                         | Waiting 🔜     |
+| **(#1)**                         | Done ✅         |
+| **(#2)**                         | Done ✅         |
+| **(#3)**                         | Done ✅         |
+| **(#4)**                         | Done ✅         |
+| **(#5)**                         | Done ✅         |
+| **(#6)**                         | Done ✅         |
 
 ## Repository Status
 
