@@ -96,5 +96,5 @@ Below are some screenshots illustrating the application in action:
 <p align="center"> <img src="https://github.com/DoruApareci/NetworkProgrammingTUM/blob/main/Lab1/Images/Client_UI.png" alt="Client UI"/> </p> 
 <p align="center"> <img src="https://github.com/DoruApareci/NetworkProgrammingTUM/blob/main/Lab1/Images/Server_UI.png" alt="Server UI"/> </p> 
 
-Contributing
+## Contributing
 Feel free to star the repository if you find it useful. Pull requests are welcome to help improve the project.
