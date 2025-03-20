@@ -1,0 +1,19 @@
+﻿<Window x:Class="HTTPUser.Views.AddOrUpdateCategoryWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:HTTPUser.Views"
+        mc:Ignorable="d"
+        Title="Category Window" Height="200" Width="300">
+    <Grid>
+        <StackPanel Margin="10" HorizontalAlignment="Center">
+            <TextBlock Text="Category Title:" FontWeight="Bold"/>
+            <TextBox Margin="0,5" Width="200" Text="{Binding CatTitle}"/>
+            <StackPanel Orientation="Horizontal" HorizontalAlignment="Center" Margin="0,10">
+                <Button Content="Save" Click="Save_Click"/>
+                <Button Content="Cancel" Click="Cancel_Click" Margin="10,0,0,0"/>
+            </StackPanel>
+        </StackPanel>
+    </Grid>
+</Window>
