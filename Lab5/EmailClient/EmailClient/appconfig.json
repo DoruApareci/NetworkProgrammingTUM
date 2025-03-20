@@ -1,0 +1,8 @@
+{
+  "Email": "my email was here", /*also I removed my email address for security reasons*/
+  "Password": "nroq dqvj zvys wuvi", /*this key got disabled on github push I made*/
+  "SmtpServer": "smtp.gmail.com",
+  "SmtpPort": 587,
+  "ImapServer": "imap.gmail.com",
+  "ImapPort": 993
+}
