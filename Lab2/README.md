@@ -131,5 +131,7 @@ Below are some screenshots illustrating various aspects of the application:
 
 <p align="center"> <img src="https://github.com/DoruApareci/NetworkProgrammingTUM/blob/main/Lab2/Images/SelfMessage.png" alt="Self Message Chat"/> </p>
 
+P.S. The application is designed to work within a network segment and may not function as expected in other environments, also make sure you disable all the network interface except the one you want to use(if you ignore this step, you might have discoverability issues)
+
 ## Contributing
 Feel free to star the repository if you find it useful. Pull requests are welcome to help improve the project.
