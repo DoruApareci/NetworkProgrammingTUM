@@ -1,4 +1,4 @@
-# Online Shop HTTP Client Application
+# Network Programming Lab 4 - HTTP Client Application
 
 This laboratory assignment involves creating a WPF application that communicates with an HTTP API representing an online shop. The solution is implemented as a Visual Studio solution containing two projects:
 

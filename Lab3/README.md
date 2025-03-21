@@ -1,4 +1,4 @@
-# DNS App - DNS Resolver Tool
+# Network Programming Lab 3 - DNS Resolver Tool
 
 This laboratory assignment involves creating a DNS resolver application that allows users to resolve domain names to IP addresses (and vice versa) as well as change the DNS server used for resolution. The solution is implemented as a Visual Studio solution with two projects:
 
